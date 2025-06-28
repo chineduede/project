@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                      MLMeanReversionStrategy.mq5  |
 //|                    Machine Learning Mean Reversion Strategy       |
-//|                                                                  |
+//|                                                                   |
 //+------------------------------------------------------------------+
 #property copyright "ML Mean Reversion Strategy"
 #property link      ""
